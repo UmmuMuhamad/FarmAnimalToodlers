@@ -46,7 +46,7 @@ matplotlib==2.2.4
 mccabe==0.6.1
 monotonic==1.5
 msgpack==0.6.1
-nltk==3.4.3
+nltk==3.4.5
 numpy==1.16.4
 oauthlib==3.0.2
 parso==0.5.0
