@@ -57,7 +57,7 @@ pkginfo==1.5.0.1
 pluggy==0.12.0
 poetry==0.12.16
 prompt-toolkit==2.0.9
-protobuf==3.8.0
+protobuf==3.15.0
 ptpython==2.0.4
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
